@@ -9,3 +9,4 @@ This folder contains small Python scripts created during my learning journey. Th
 - **Note:** This implementation uses manual input for training purposes. Real DNA sequences are typically analyzed using FASTA files, not user input.
 - **Technologies:** Python (string methods)
 
+.
