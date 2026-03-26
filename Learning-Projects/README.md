@@ -8,4 +8,8 @@ This folder contains small Python scripts created during my learning journey. Th
 - **Purpose:** Training string manipulation and basic sequence analysis.
 - **Note:** This implementation uses manual input for training purposes. Real DNA sequences are typically analyzed using FASTA files, not user input.
 - **Technologies:** Python (string methods)
-
+### 2. Sequence finder (DNA Sequence Analysis)
+- **Description:** Finds one gene between the start and stop códon.
+- **Purpose:** Training string manipulation and basic sequence analysis.
+- **Note:** This implementation uses manual input for training purposes. Real DNA sequences are typically analyzed using FASTA files, not user input.
+- **Technologies:** Python (string methods)
