@@ -27,5 +27,5 @@ This folder contains Python projects developed during my learning journey that h
 ### 4. ncbi_downloader
 - **Description:** Downloads a DNA sequence from NCBI using its accession ID
 - **Features:**
--   Searches the NCBI database for a sequence by accession ID
--   Saves the sequence to a .fasta file
+    - Searches the NCBI database for a sequence by accession ID
+    - Saves the sequence to a .fasta file
