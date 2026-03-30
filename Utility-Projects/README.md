@@ -19,7 +19,7 @@ This folder contains Python projects developed during my learning journey that h
   - Reduces polynomial expressions
 - **Technologies:** Python (mathematical operations, algebra)
 ### 3. Fasta_GC_Counter
-- **Description:** Read a DNA sequence and calculates the percentage of GC content.
+- **Description:** Reads a DNA sequence and calculates the percentage of GC content.
 - **Features:**
  - Reads a DNA sequence
  - Counts the total number of bases and the number of GC bases
