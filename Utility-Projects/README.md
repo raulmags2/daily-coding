@@ -1,8 +1,3 @@
-
-
-### **Utility Projects**
-
-
 # Utility Projects
 
 ## Description
