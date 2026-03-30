@@ -29,7 +29,7 @@ This folder contains Python projects developed during my learning journey that h
 - Read a DNA sequence
 - Counts the total number of bases and the number of GC bases
 - Calculates the GC percentage
-### 4. Import_bio
+### 4. ncbi_downloader
 - **description:** Search and download a DNA sequence, using the ID
 - **Features:**
 - Search in INBC data to one DNA sequence and download
