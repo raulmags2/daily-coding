@@ -23,3 +23,14 @@ This folder contains Python projects developed during my learning journey that h
   - Finds polynomial roots
   - Reduces polynomial expressions
 - **Technologies:** Python (mathematical operations, algebra)
+### 3. Fasta_GC_Counter
+- **description:** Read a DNA sequence and calculates the percentage of GC countent.
+- **Features:**
+- Read a DNA sequence
+- Counts the total number of bases and the number of GC bases
+- Calculates the GC percentage
+### 4. Import_bio
+- **description:** Search and download a DNA sequence, using the ID
+- **Features:**
+- Search in INBC data to one DNA sequence and download
+- write the DNA sequence in a .fasta arquive
