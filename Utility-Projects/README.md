@@ -24,7 +24,7 @@ This folder contains Python projects developed during my learning journey that h
   - Reduces polynomial expressions
 - **Technologies:** Python (mathematical operations, algebra)
 ### 3. Fasta_GC_Counter
-- **description:** Read a DNA sequence and calculates the percentage of GC content.
+- **Description:** Read a DNA sequence and calculates the percentage of GC content.
 - **Features:**
 - Read a DNA sequence
 - Counts the total number of bases and the number of GC bases
@@ -32,5 +32,5 @@ This folder contains Python projects developed during my learning journey that h
 ### 4. ncbi_downloader
 - **Description:** Downloads a DNA sequence from NCBI using its accession ID
 - **Features:**
-- Search in NCBI data to one DNA sequence and download
-- Saves the sequence to a .fasta file
+-   Searches the NCBI database for a sequence by accession ID
+-   Saves the sequence to a .fasta file
