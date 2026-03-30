@@ -17,7 +17,7 @@ def second_degree(a, b, c, x1):
     quad_c = x1 * quad_b + c
     delta = quad_b ** 2 - (4 * quad_a * quad_c)
     if delta < 0:
-        print ("this function has no real matematic roots")
+        print ("this function has no real mathematical roots")
     else:#calculate the roots of polynomial, reducing to the first degree form
         x2 = ((-quad_b + math.sqrt(delta)) / (2 * quad_a))
         x3 = ((-quad_b - math.sqrt(delta)) / (2 * quad_a))
@@ -33,7 +33,7 @@ x1 = test_roots(a_value, b_value, c_value, d_value)
 x2, x3 = second_degree(a_value, b_value, c_value, x1)
 print (f"the polinomial roots are:")
 print (f"x1 = {x1}")
-print (f"x1 = {x2}")
+print (f"x2 = {x2}")
 print (f"x3 = {x3}")
 print (f"the polynomial, reduced to the first-degree form is:")
 print (f"(x-{x1})(x-{x2})(x-{x3})")
