@@ -2,14 +2,14 @@ import math
 def test_roots(a, b, c, d):
     root_test = -abs(d)#turn the 'd' value into negative, to calculate the divisors without errors
     while root_test <= abs(d):
-        if root_test != 0 and d % Root_test == 0:
+        if root_test != 0 and d % root_test == 0:
             x = root_test
             y = a * (x ** 3) + b * (x ** 2) + c * x + d
             if y == 0:
                 x1 = x
                 return x1
                 
-        Root_test = Root_test + 1
+        root_test = root_test + 1
 #calculates all the values of the second degree polynomial
 def second_degree(a, b, c, x1):
     quad_a = a
