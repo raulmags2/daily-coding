@@ -21,11 +21,11 @@ This folder contains Python projects developed during my learning journey that h
 ### 3. Fasta_GC_Counter
 - **Description:** Read a DNA sequence and calculates the percentage of GC content.
 - **Features:**
-- Read a DNA sequence
-- Counts the total number of bases and the number of GC bases
-- Calculates the GC percentage
+ - Reads a DNA sequence
+ - Counts the total number of bases and the number of GC bases
+ - Calculates the GC percentage
 ### 4. ncbi_downloader
 - **Description:** Downloads a DNA sequence from NCBI using its accession ID
 - **Features:**
-    - Searches the NCBI database for a sequence by accession ID
-    - Saves the sequence to a .fasta file
+ - Searches the NCBI database for a sequence by accession ID
+ - Saves the sequence to a .fasta file
