@@ -31,3 +31,9 @@ This folder contains Python projects developed during my learning journey that h
 - **Features:**
 -  Read one .fasta file and find stop and start bases.
 -  Print the found gene
+### 6. orf_finder
+- **Description:** Read one DNA sequence, finds the possible relevant genes and saves that into a new .fasta file
+- **Features:**
+- Read a .fasta file and finds start base
+- Finds the next valid stop codon and save the sequence between the start and stop into a list
+- write a new file with the found genes 
