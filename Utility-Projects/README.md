@@ -10,14 +10,11 @@ This folder contains Python projects developed during my learning journey that h
 - **Features:**
   - Finds roots of second-degree polynomials
   - Calculates y-values for all integer x-values between the roots
-- **Technologies:** Python (mathematical operations)
-
 ### 2. Third-Degree Polynomial Reducer
 - **Description:** Analyzes and simplifies third-degree polynomials.
 - **Features:**
   - Finds polynomial roots
   - Reduces polynomial expressions
-- **Technologies:** Python (mathematical operations, algebra)
 ### 3. Fasta_GC_Counter
 - **Description:** Reads a DNA sequence and calculates the percentage of GC content.
 - **Features:**
@@ -29,3 +26,8 @@ This folder contains Python projects developed during my learning journey that h
 - **Features:**
  - Searches the NCBI database for a sequence by accession ID
  - Saves the sequence to a .fasta file
+### 5. sequence_finder
+- **Description:** Reads a DNA sequence and search for the start and stop codon, printing the gene after that.
+- **Features:**
+-  Read one .fasta file and find stop and start bases.
+-  Print the found gene
