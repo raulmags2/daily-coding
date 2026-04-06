@@ -24,3 +24,13 @@ This folder contains small Python scripts created during my learning journey. Th
 - **Description:** Reads a text file, splits every line into individual words, and builds a sorted list of unique words — skipping duplicates. Prints the final alphabetically sorted list.
 - **Purpose:** Training file I/O, list operations (`append`, `sort`), and membership testing with `not in`.
 - **Technologies:** Python (file handling, lists, string methods)
+
+### 5. Common Hour (Email Log Analysis)
+- **Description:** Reads an email log file (`mbox-short.txt`), extracts the hour from each `From ` line, and counts how many messages were sent in each hour of the day. Prints the results sorted by hour in ascending order.
+- **Purpose:** Training file I/O, string slicing, dictionaries (`get`), and sorting with `sorted()`.
+- **Technologies:** Python (file handling, string methods, dictionaries)
+
+### 6. Big Email (Most Prolific Sender)
+- **Description:** Reads an email log file (`mbox-short.txt`), counts how many times each sender address appears in `From ` lines, and prints the address with the highest message count along with that count.
+- **Purpose:** Training file I/O, dictionaries, and maximum-value tracking with a loop.
+- **Technologies:** Python (file handling, string methods, dictionaries)
